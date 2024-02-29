@@ -1,0 +1,450 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+#navbar{
+    background-color: rgb(19, 4, 19);
+    height: 70px;
+    position: fixed;  
+
+}
+
+#logo{
+    color:yellow;
+    font-size: 35px;
+    text-shadow: 5px 3px 3px;
+    margin-left: 10px;   
+}
+
+
+a{
+    margin-right: 20px;
+    text-decoration: none;
+    color:  pink;    
+}
+
+
+
+button{
+    background-color: pink;
+}
+
+
+.body1{
+    background-image: url(jpg.img.jpg);
+    background-size: 1300 200;
+}
+
+.contentBox{
+    height: 200px;
+    width: 100px;
+}
+
+<!--footer-->
+
+.foot{
+    background-color: black;
+}
+
+
+#divf{
+    background-color:yellow;
+    height: 200px;
+    text-align: center;
+    font-size: xx-large;
+    
+}
+#divf1{
+    color: rgb(19, 4, 19) ;
+    padding-top: 25px;
+    font-size: 40px;
+   
+}
+
+.input1{
+    height: 50px;
+    margin-top: 50px;
+    font-size: large;
+}
+
+
+.button1{
+    height: 40px;
+    width: 100px;
+    font-size: 20px;
+    
+}
+
+#divf2{
+    color: white;
+    margin-left: 20px;
+    margin-top: 10px;
+    font-size: 20px;
+    text-shadow: none;
+    
+}
+
+#divf3{
+    color: yellow;
+    margin-top: 30px;
+    margin-left: 10px;
+    text-shadow: 5px 3px 3px;
+    font-size: 35px;
+}
+
+
+.ri-facebook-box-fill{
+    color: rgb(58, 58, 190);
+    font-size: 40px;
+}
+
+.ri-whatsapp-line{
+    color: green;
+    font-size: 40px;
+}
+
+
+.ri-instagram-line{
+    color: purple;
+    font-size: 40px;
+}
+
+#divf4{
+    color: white;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-left: 70px;
+}
+
+.specialdiv{
+    display: flex;
+}
+
+ul li{
+    margin-left: 60px;
+    margin-top: 10px;
+    text-decoration: none;
+
+}
+
+ul li :hover{
+    color: palevioletred;
+}
+
+
+.a{
+    color: white;
+}
+
+.a1{
+    color: white;
+}
+
+.specialdiv2{
+    color: white;
+    display: flex;
+    margin-left: 10px;
+    margin-top: 70px;
+    font-size: larger;
+   
+}
+
+
+#divf5{
+    border: 2px solid grey;
+    padding: 60px;
+    margin-left: 50px;
+}
+
+.ri-map-pin-line{
+    font-size: 40px;
+    color: red;
+}
+
+.ri-mail-line{
+    font-size: 40px;
+    color: red;
+}
+
+
+.ri-smartphone-line{
+    font-size: 40px;
+    color: red;
+}
+
+
+<!--pastapage-->
+
+.specialdiv3{
+    display:  flex ;
+    height: 250px;
+    width: 250px;
+}
+
+img{
+    height: 250px;
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 25px;
+}
+
+#divf6{
+    display: flex;
+    
+}
+
+
+#divf7{
+    height: 400px;
+    width: 400px;
+    border: 20px double pink;
+    margin-top: 40px;
+    margin-bottom: 80px;
+    margin-left: 60px;
+    border-radius: 0px 100px 0px 100px;
+   /*background-image: url(divimgpasta.jpg);*/
+   background-color: rgba(219, 120, 137, 0.363);
+   font-size: 40px;
+}
+
+#divf8{
+    height: 400px;
+    width: 400px;
+    border: 20px double pink;
+    margin-top: 30px;
+    margin-bottom: 90px;
+    margin-left: 300px;
+    border-radius: 0px 100px 0px 100px;
+    /*background-image: url(divimgpasta.jpg);*/
+    background-color: rgba(219, 120, 137, 0.363);
+    font-size: 36px;
+}
+
+
+#divf9{
+   display: contents;  
+   padding: 20px; 
+}
+iframe{
+    margin: 25px;
+}
+
+<!--contact-->
+
+body.bd{
+    background-color:white;
+    
+}
+
+h1.body2{
+    color: rgb(78, 23, 78);
+    text-align: center;
+    text-decoration: underline double;
+    font-size: 400%;
+    box-shadow: -5px -5px 40px 0;
+    
+}
+.input2{
+    height: 100PX;
+    font-size: xx-large;
+    border-color:pink;
+    box-shadow: -5px -5px 30px 0;
+    color: rgb(44, 8, 44);
+    margin: 20px;
+}
+
+
+.btn{
+    background-color: transparent;
+    color: pink;
+    border: 2px solid  ;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 25px;
+    display: inline-block;
+    box-sizing: border-box;
+    height: 100px;
+    width: 250px;
+    
+}
+div.textcenter{
+    text-align: center;
+    
+}
+
+div.textcenter :hover{
+    color: white;
+    background-color: rgb(44, 12, 44);
+    
+}
+.h2{
+    color: rgb(44, 8, 44);
+    margin-left: 30px;
+    font-size: 60px;
+}
+.p2{
+    color: black;
+    font-size: 40px;
+    text-shadow: none;
+    margin-left: 80px;
+    margin-top: 30px;
+    margin-bottom: 90px;
+}
+
+.input3{
+    height: 200px;
+    width: 867px;
+    font-size: xx-large;
+    border-color: pink;
+    box-shadow: -5px -5px 30px 0;
+}
+
+#div10{
+    display: flex;
+}
+
+.h3{
+   margin-left: 110%;
+   color: rgb(44, 8, 44);
+    font-size: 60px;
+}
+
+
+.p3{
+    margin-left: 100%; 
+    color: black;
+    font-size: 40px;
+    text-shadow: none;
+    margin-top: 30px;
+}
+
+#div12{
+    font-size: x-large;
+    margin-left: 7px;
+}
+
+#div11{
+    font-size: 50px;
+    color: rgb(68, 12, 68);
+    text-align: center;
+    margin-bottom: 40px;
+    font-family: Pacifico,cursive;
+}
+
+#div11:hover{
+    color: gold;
+}
+
+
+
+<!--biryani-->
+
+
+
+#div13 {
+    color: rgb(228, 99, 142);
+    font-size: 30px;
+    margin-left: 430px;
+    margin-top: 100px;
+}
+
+
+#div14 {
+    color: black;
+    margin-left: 450px;
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+
+.img{
+    height: 400px;
+    width: 450px;
+    margin-top: -850px;
+    margin-left: -5px;
+}
+
+
+#div20{
+    margin-left: 0px;
+    font-size: xx-large;
+    background-color: rgb(44, 8, 44);
+    color: white;
+}
+
+#div21{
+    margin-left: 0px;
+    font-size: x-large;
+    background-color: rgb(44, 8, 44);
+    color: yellow;
+}
+     
+
+.pp{
+    font-size:40px ;
+    background-color: rgb(44, 8, 44);
+    color: white;
+}
+
+
+
+<!--login-->
+
+
+
+
+#logindiv{
+    font-size: 30px;
+}
+
+.inputlogin{
+    height: 50px;
+    margin-top: 50px;
+    font-size: large;
+}
+#logindiv{
+    margin-left: 410px;
+    margin-top: 200px;
+}
+
+.imglogin{
+    height: 400px;
+    width: 420px;
+    margin-top: -400px;
+    margin-left: -10px;
+}
+
+#LOGOIN{
+    font-size: 40px;
+    color: darkslateblue;
+    float: right;
+    margin-top: -120px;
+    margin-right: 20px;
+    text-shadow: 5px 3px 3px;
+}
+
+#btnlogin{
+    height: 40px;
+    width: 100px;
+    font-size: 20px;
+    background-color: darkslateblue;
+    color: white;
+    margin-left: 450px;
+    margin-top: 50px;
+}
+
+
+
+
+<!--burger-->
+
+
+
+.burgerspecial{
+    display: flex;
+    height: 250px;
+    width: 250px;
+}
+
